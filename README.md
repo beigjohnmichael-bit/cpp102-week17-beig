@@ -49,4 +49,4 @@ I performed 16 tests. 16 passed and 0 failed. Full details are in [test_cases.md
 - The temperature limits are for this classroom simulation only. They are not real device-safety standards.
 
 ## Reflection
-Working on the Simulated Device Monitoring and Alert System taught me how a list of numbers can support a real decision by classifying readings as NORMAL, WARNING, or CRITICAL. The hardest part was input validation, so I used loops with `try` and `except` to reject bad input without crashing. Writing 16 test cases showed me that testing is a habit, not just a final step. In the future, I would like to add file saving and edit and delete options.
+Working on the Simulated Device Monitoring and Alert System taught me how a list of numbers can support a real decision by classifying readings as NORMAL, WARNING, or CRITICAL. The hardest part was input validation, so I used loops with try and except to reject bad input without crashing. Writing 16 test cases showed me that testing is a habit, not just a final step. In the future, I would like to add file saving and edit and delete options.
